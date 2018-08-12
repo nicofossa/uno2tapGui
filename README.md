@@ -1,9 +1,9 @@
-#uno2tapGUI
+# uno2tapGUI
 A simple C64 cassette emulator using an Arduino UNO and a Java program.
 
 This is a rewrite of [uno2tap by Mike Dawson](https://gp2x.org/uno2tap/).
 
-##Arduino Setup
+## Arduino Setup
 DISCLAIMER: it worked on my hardware and it should work on any hardware but i will not be responsible of any damage!
 YOU are connecting YOUR C64 to YOUR Arduino and PC, so it's YOUR fault if something goes wrong. Keep this in mind.
 
